@@ -37,9 +37,3 @@ This project provides insights into the performance of a superstore's operations
   - Calculated total revenue, sales, profit, and quantities.
   - Identified overall growth trends and areas needing attention.
 
-
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/superstore-analysis.git
